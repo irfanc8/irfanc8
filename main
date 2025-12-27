@@ -1,0 +1,9 @@
+StarterGui
+ └── MiningUI (ScreenGui)
+      └── MainFrame (Frame)
+           ├── Title (TextLabel)
+           ├── AutoBtn (TextButton)
+           ├── Status (TextLabel)
+           ├── Coins (TextLabel)
+           ├── Pickaxe (TextLabel)
+           └── UpgradeBtn (TextButton)
